@@ -28,4 +28,6 @@ production/*
 dev/*
 uat/*
 api.ts
-public/*
+public/configuration.js
+public/config.json
+public/dwt-resources
