@@ -30,3 +30,4 @@ uat/*
 api.ts
 public/configuration.js
 public/config.json
+dist
