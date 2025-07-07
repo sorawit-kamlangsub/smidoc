@@ -28,5 +28,4 @@ production/*
 dev/*
 uat/*
 api.ts
-public/configuration.js
-public/config.json
+public/*
