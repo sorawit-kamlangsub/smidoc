@@ -6,7 +6,7 @@ window.__CONST__ENV__ = {
   "VITE_APP_CONTACT_URL": "https://www.siamsmile.co.th",
   "VITE_VERSION_CHECKER_CONFIRM": "true",
   "VITE_VERSION_CHECKER_CHECK_INTEVAL_MIN": "15",
-  "VITE_BASE_URL": "http://localhost:3000",
+  "VITE_BASE_URL": "https://sorawit-kamlangsub.github.io/smidoc",
   "VITE_API_URL": "https://apigw.uatsiamsmile.com/docstorage",
   "VITE_APIGW_BASEURL": "https://apigw.devsiamsmile.com",
   "VITE_API_DOCUMENT_V2": "https://uatdocapi2.siamsmile.co.th/api",
