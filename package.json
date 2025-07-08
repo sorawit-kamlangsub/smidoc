@@ -6,7 +6,7 @@
     "type": "module",
     "scripts": {
         "start": "ncp node_modules/dwt/dist public/dwt-resources && vite",
-        "predeploy": "vite build --mode uat",
+        "predeploy": "npm run build:githubpage",
         "deploy": "gh-pages -d dist",
         "build": "tsc && vite build",
         "build:dev": "tsc && vite build --mode dev",
